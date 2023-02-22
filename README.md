@@ -1,4 +1,4 @@
-# big-data-challenge
+# amazon-user-data-review
 Exploring Amazon user review data and storing it in a database.
 
 ## Summary
